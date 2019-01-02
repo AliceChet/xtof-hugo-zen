@@ -42,7 +42,7 @@ Félicitations ! Vous avez créé avec brio votre premier "repo" (dépôt en fra
 
 ## Créez un README pour votre dépôt
 
-Bien qu'un fichier README ne soit pas un élément obligatoire d'un repo GitHub, c'est une très bonne habitude à prendre que d'en placer un. Les READMEs sont un endroit génial pour décrire vore projet ou ajouter un peu de documentation comme savoir comment installer ou utiliser votre projet. Vous pourriez y ajouter une information de contact — si votre projet devient populaire, les personnes voudront vous aider.
+Bien qu'un fichier README ne soit pas un élément obligatoire d'un repo GitHub, c'est une très bonne habitude à prendre que d'en placer un. Les READMEs sont un endroit génial pour décrire votre projet ou ajouter un peu de documentation comme savoir comment installer ou utiliser votre projet. Vous pourriez y ajouter une information de contact — si votre projet devient populaire, les personnes voudront vous aider.
 
 #### Plus sur les READMEs
 
